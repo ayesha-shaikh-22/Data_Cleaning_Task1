@@ -10,7 +10,7 @@ The raw Mall Customers dataset was cleaned by:
  - Validating and converting data types
  - Saving a clean, analysis-ready version (cleaned_mall_customers.csv)
 
-**Skills Shown**: Data Preprocessing, Pandas, Python, Data Quality, Data Analysis
+**Skills Shown**: Data Preprocessing, Pandas, Python, Data Quality, Data Analysis                                                     
 **Includes**:
 Original dataset
 Python cleaning script
