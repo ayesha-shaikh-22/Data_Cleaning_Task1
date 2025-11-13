@@ -113,8 +113,9 @@ This process improved my understanding of data preprocessing, an essential step 
 
 
 ### Author ###
-Ayesha Shaikh
-Data Analyst Intern
-Email:ashu203831@gmail.com
+Ayesha Shaikh                                  
+Data Analyst Intern                                         
+Email:ashu203831@gmail.com                                                 
 GitHub:https://github.com/ayesha-shaikh-22/Data_Cleaning_Task1 
+
 
