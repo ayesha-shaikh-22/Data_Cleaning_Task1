@@ -105,10 +105,10 @@ Steps Performed as follows :
 ### Conclusion
 
 Through this project, I learned how to:
-Handle missing and duplicate data.
-Standardize columns and text values.
-Validate data types using Pandas.
-Export cleaned datasets for analysis.
+Handle missing and duplicate data,
+Standardize columns and text values,
+Validate data types using Pandas,
+Export cleaned datasets for analysis,
 This process improved my understanding of data preprocessing, an essential step before visualization or modeling.
 
 
@@ -117,3 +117,4 @@ Ayesha Shaikh
 Data Analyst Intern
 Email:ashu203831@gmail.com
 GitHub:https://github.com/ayesha-shaikh-22/Data_Cleaning_Task1 
+
